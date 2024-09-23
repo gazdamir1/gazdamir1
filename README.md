@@ -65,3 +65,8 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ### :handshake: Contributions :
 - **Information Technology Center of the Republic of Tatarstan** - Writing tests on Angular/Jasmine for project.
+
+### :dart: Interests :
+- :coffee: I love to develop high-performance and easy-to-use interfaces.
+- :books: Constantly studying new technologies and libraries.
+- :game_die: Interested in games/movies/TV shows/music and how it all works.
