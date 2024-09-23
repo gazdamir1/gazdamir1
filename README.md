@@ -19,11 +19,6 @@ Here are some ideas to get you started:
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMweGQzOHdtM2ZyN3R4dWExdzk3YnlhY3piY3lxOW80dGI5bHdiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
 </div>
 
-
-<div id="badges">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
-</div>
-
 ### :man_technologist: About Me :
 I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :desktop_computer: I’m working as a Software Engineer and contributing to frontend for building web applications.
