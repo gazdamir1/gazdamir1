@@ -51,3 +51,6 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - **[Graphiql App](https://github.com/gazdamir1/graphiql-app)** - light-weight versions of Postman and GrqphiQL combined in one app. Used Technologies: `Next`, `TypeScript`, `Node.js`, `firebase`.
 - **[Unversity Diplom](https://github.com/gazdamir1/Diplom)** - Electronic goods store. Used Technologies: `JavaScript`, `Node.js`, `PostgreSQL`.
 
+<details>
+  <summary>There I have more projects, but they not so big. More for training</summary>
+</details>
