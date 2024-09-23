@@ -70,3 +70,8 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - :coffee: I love to develop high-performance and easy-to-use interfaces.
 - :books: Constantly studying new technologies and libraries.
 - :game_die: Interested in games/movies/TV shows/music and how it all works.
+
+### :memo: About Me :
+I'm a passionate front-end developer from Russia, focused on creating intuitive and responsive web applications. I enjoy learning new technologies and applying them in my projects.
+- :earth_africa: Based in Kazan, Russia.
+- :video_game: In my free time, I enjoy gaming and exploring new tech trends.
