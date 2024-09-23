@@ -63,3 +63,5 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <summary>More Certifications you can find <a href="https://drive.google.com/drive/folders/1KnW3WCBVCwbSww4Q5R5kz_SDab7QYymn?usp=sharing">here</a>.</summary>
 </details>
 
+### :handshake: Contributions :
+- **Information Technology Center of the Republic of Tatarstan** - Writing tests on Angular/Jasmine for project.
