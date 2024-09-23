@@ -54,3 +54,13 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <details>
   <summary>There I have more <a href="https://github.com/gazdamir1?tab=repositories">projects</a>, but they not so big. More for training</summary>
 </details>
+
+### :mortar_board: Education & Certificates :
+- **[Bachelor's Degree in Computer Science](https://drive.google.com/file/d/1rF2a7jBLcfWmjlPrAcTinNmyJkLJssXf/view?usp=sharing)** - TISBI University, 2019-2023
+- **[JavaScript Advanced Certification](https://drive.google.com/file/d/1DNKSagWKSijyECe_HHD7EL4d0QNKP06b/view?usp=sharing)** - Online Course Platform, 2023
+- **JavaScript Advanced** - Coursera, 2023
+
+<details>
+  <summary>More Certifications you can find <a href="https://drive.google.com/drive/folders/1KnW3WCBVCwbSww4Q5R5kz_SDab7QYymn?usp=sharing">here</a>.</summary>
+</details>
+
