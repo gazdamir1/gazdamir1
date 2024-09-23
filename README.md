@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :desktop_computer: I’m working as a Software Engineer and contributing to frontend for building web applications.
 - :telescope: I’m currently learning tools for optimizing software processes
-- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nizergyd)
+- :mailbox: How to reach me:
+  [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nizergyd)
 
   ---
 
