@@ -52,5 +52,5 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - **[Unversity Diplom](https://github.com/gazdamir1/Diplom)** - Electronic goods store. Used Technologies: `JavaScript`, `Node.js`, `PostgreSQL`.
 
 <details>
-  <summary>There I have more projects, but they not so big. More for training</summary>
+  <summary>There I have more <a href="https://github.com/gazdamir1?tab=repositories">projects</a>, but they not so big. More for training</summary>
 </details>
