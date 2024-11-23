@@ -48,7 +48,7 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gazdamir1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :rocket: My Projects :
-- **[Graphiql App](https://github.com/gazdamir1/graphiql-app)** - light-weight versions of Postman and GrqphiQL combined in one app. Used Technologies: `Next`, `TypeScript`, `Node.js`, `firebase`. <a href="https://develop--the-it-crowd-graphiql-app.netlify.app">(deploy)</a>
+- **[Graphiql App](https://github.com/gazdamir1/graphiql-app)** - light-weight versions of Postman and GrqphiQL combined in one app. Used Technologies: `Next`, `TypeScript`, `Node.js`, `firebase`. <a href="https://github.com/gazdamir1/graphiql-app/pull/1">(work process)</a>
 - **[Unversity Diplom](https://github.com/gazdamir1/Diplom)** - Electronic goods store. Used Technologies: `JavaScript`, `Node.js`, `PostgreSQL`.
 
 <details>
