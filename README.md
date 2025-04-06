@@ -64,9 +64,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <summary>More Certifications you can find <a href="https://drive.google.com/drive/folders/1yBkopA8x-zsG7X5USm1W0ICXN1dSI-Sr?usp=sharing">here</a>.</summary>
 </details>
 
-### :handshake: Contributions :
-- **Information Technology Center of the Republic of Tatarstan** - Writing tests on Angular/Jasmine for project.
-
 ### :dart: Interests :
 - :coffee: I love to develop high-performance and easy-to-use interfaces.
 - :books: Constantly studying new technologies and libraries.
